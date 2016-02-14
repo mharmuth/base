@@ -1,3 +1,4 @@
 /**
  * Main
  */
+alert('Gulp Demo!');
